@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.0">
+  <diagram name="ページ1" id="WGYqNACE3KMpnp0U7BUj">
+    <mxGraphModel dx="136" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nekemFuic2RQH9iwINX8-2" value="乗り物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-3" value="船" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="220" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-4" value="車" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-5" value="飛行機" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-6" value="" style="endArrow=block;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="nekemFuic2RQH9iwINX8-4" target="nekemFuic2RQH9iwINX8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-7" value="" style="endArrow=block;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="nekemFuic2RQH9iwINX8-3" target="nekemFuic2RQH9iwINX8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="485" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-8" value="" style="endArrow=block;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="nekemFuic2RQH9iwINX8-5" target="nekemFuic2RQH9iwINX8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="250" as="sourcePoint" />
+            <mxPoint x="515" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-9" value="車" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-11" value="エンジン" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-12" value="ボディ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-13" value="ライト" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-14" value="ハンドル" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-15" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nekemFuic2RQH9iwINX8-11" target="nekemFuic2RQH9iwINX8-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="184.01999999999998" as="sourcePoint" />
+            <mxPoint x="806.72" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-17" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nekemFuic2RQH9iwINX8-13" target="nekemFuic2RQH9iwINX8-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="334" as="sourcePoint" />
+            <mxPoint x="997" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-18" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nekemFuic2RQH9iwINX8-14" target="nekemFuic2RQH9iwINX8-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="334" as="sourcePoint" />
+            <mxPoint x="997" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-19" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nekemFuic2RQH9iwINX8-12" target="nekemFuic2RQH9iwINX8-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="334" as="sourcePoint" />
+            <mxPoint x="997" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-20" value="利用者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-21" value="s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-22" value="図書カード" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nekemFuic2RQH9iwINX8-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
